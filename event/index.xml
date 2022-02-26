@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Xiangyu Zhao</title>
+    <link>https://victorzxy.github.io/event/</link>
+      <atom:link href="https://victorzxy.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Fri, 11 Feb 2022 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://victorzxy.github.io/media/icon_hu51ffffd5f6381cda320d0c97647d90a4_34098_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://victorzxy.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Asynchronous Methods for Deep Reinforcement Learning</title>
+      <link>https://victorzxy.github.io/talk/asynchronous-methods-for-deep-reinforcement-learning/</link>
+      <pubDate>Fri, 11 Feb 2022 15:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/talk/asynchronous-methods-for-deep-reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a Simulator and Emulator for Traffic Signaling</title>
+      <link>https://victorzxy.github.io/talk/building-a-simulator-and-emulator-for-traffic-signaling/</link>
+      <pubDate>Mon, 07 Feb 2022 14:30:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/talk/building-a-simulator-and-emulator-for-traffic-signaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trading Assistant</title>
+      <link>https://victorzxy.github.io/talk/trading-assistant/</link>
+      <pubDate>Wed, 04 Mar 2020 15:30:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/talk/trading-assistant/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

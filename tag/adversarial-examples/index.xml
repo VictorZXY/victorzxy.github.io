@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adversarial Examples | Xiangyu Zhao</title>
+    <link>https://victorzxy.github.io/tag/adversarial-examples/</link>
+      <atom:link href="https://victorzxy.github.io/tag/adversarial-examples/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adversarial Examples</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://victorzxy.github.io/media/icon_hu51ffffd5f6381cda320d0c97647d90a4_34098_512x512_fill_lanczos_center_3.png</url>
+      <title>Adversarial Examples</title>
+      <link>https://victorzxy.github.io/tag/adversarial-examples/</link>
+    </image>
+    
+    <item>
+      <title>Investigating Adversarial Examples for Deep Residual Networks</title>
+      <link>https://victorzxy.github.io/post/fgsm-attack-resnets/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/post/fgsm-attack-resnets/</guid>
+      <description>&lt;p&gt;In this project, I investigated the one-shot and iterative fast gradient sign method (FGSM) attack, both untargeted and targeted, to generate adversarial examples for ResNet-50, and experimented the transferability of each FGSM to other neural networks, namely ResNet-18 and VGG-19, as well as other image inputs. The following conclusions can be reached after the above experiments:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Targeted FGSM is more effective than FGSM;&lt;/li&gt;
+&lt;li&gt;In white-box attacks, both the untargeted and targeted one-shot FGSMs are less effective than the iterative methods (both untargeted and targeted);&lt;/li&gt;
+&lt;li&gt;When it comes to transferability to other neural networks or inputs, the one-shot FGSMs turn out to be much more effective than the iterative FGSMs, as the iterative FGSMs suffer from overfitting and hence completely unable to transfer to other neural networks or inputs.&lt;/li&gt;
+&lt;li&gt;Since transferability is a foundation to black-box attacks, it is likely that the one-shot FGSMs can also be more effective than the iterative FGSMs in black-box attacks.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigating Adversarial Examples for Deep Residual Networks</title>
+      <link>https://victorzxy.github.io/project/fgsm-attack-resnets/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/project/fgsm-attack-resnets/</guid>
+      <description>&lt;p&gt;In this project, I investigated the one-shot and iterative fast gradient sign method (FGSM) attack, both untargeted and targeted, to generate adversarial examples for ResNet-50, and experimented the transferability of each FGSM to other neural networks, namely ResNet-18 and VGG-19, as well as other image inputs. The following conclusions can be reached after the above experiments:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Targeted FGSM is more effective than FGSM;&lt;/li&gt;
+&lt;li&gt;In white-box attacks, both the untargeted and targeted one-shot FGSMs are less effective than the iterative methods (both untargeted and targeted);&lt;/li&gt;
+&lt;li&gt;When it comes to transferability to other neural networks or inputs, the one-shot FGSMs turn out to be much more effective than the iterative FGSMs, as the iterative FGSMs suffer from overfitting and hence completely unable to transfer to other neural networks or inputs.&lt;/li&gt;
+&lt;li&gt;Since transferability is a foundation to black-box attacks, it is likely that the one-shot FGSMs can also be more effective than the iterative FGSMs in black-box attacks.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
