@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph Theory | Xiangyu Zhao</title>
+    <link>https://victorzxy.github.io/tag/graph-theory/</link>
+      <atom:link href="https://victorzxy.github.io/tag/graph-theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graph Theory</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://victorzxy.github.io/media/icon_hu51ffffd5f6381cda320d0c97647d90a4_34098_512x512_fill_lanczos_center_3.png</url>
+      <title>Graph Theory</title>
+      <link>https://victorzxy.github.io/tag/graph-theory/</link>
+    </image>
+    
+    <item>
+      <title>A Classroom Teaching Tool for Graph Theory</title>
+      <link>https://victorzxy.github.io/post/graph-teaching-tool/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/post/graph-teaching-tool/</guid>
+      <description>&lt;p&gt;Graph theory is an important part in A-Level mathematics and computer science subjects. A good majority of students who are studying mathematics, further mathematics or computer science need a more hands-on approach to this very abstract subject which lies at the heart of computer science, and a detailed and easy-understandable teaching tool is essential to their understandings about graph theory. Unfortunately, however, such a teaching tool is quite rare to find in the majority of academic supportive websites. In this project, I built a Windows desktop application in C#, that provides a classroom teaching tool for graph theory, particularly in the following algorithms:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prim&amp;rsquo;s and Kruskal&amp;rsquo;s minimum spanning trees algorithms&lt;/li&gt;
+&lt;li&gt;Dijkstra&amp;rsquo;s single-source shortest paths algorithm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The teaching tool enables a user to freely create a graph by filling in an adjacency matrix/list, and also provides a Sketch Board which allows a user to directly draw the graph on a canvas. It then applies the graph algorithms on the created graph, with step-by-step demonstrations. It also embeds a Question Bank for teachers to set, edit and store questions and students to answer them, together with an automatic marking system, and can keep track of the learning progress of each student.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Classroom Teaching Tool for Graph Theory</title>
+      <link>https://victorzxy.github.io/project/graph-teaching-tool/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/project/graph-teaching-tool/</guid>
+      <description>&lt;p&gt;Graph theory is an important part in A-Level mathematics and computer science subjects. A good majority of students who are studying mathematics, further mathematics or computer science need a more hands-on approach to this very abstract subject which lies at the heart of computer science, and a detailed and easy-understandable teaching tool is essential to their understandings about graph theory. Unfortunately, however, such a teaching tool is quite rare to find in the majority of academic supportive websites. In this project, I built a Windows desktop application in C#, that provides a classroom teaching tool for graph theory, particularly in the following algorithms:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prim&amp;rsquo;s and Kruskal&amp;rsquo;s minimum spanning trees algorithms&lt;/li&gt;
+&lt;li&gt;Dijkstra&amp;rsquo;s single-source shortest paths algorithm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The teaching tool enables a user to freely create a graph by filling in an adjacency matrix/list, and also provides a Sketch Board which allows a user to directly draw the graph on a canvas. It then applies the graph algorithms on the created graph, with step-by-step demonstrations. It also embeds a Question Bank for teachers to set, edit and store questions and students to answer them, together with an automatic marking system, and can keep track of the learning progress of each student.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
