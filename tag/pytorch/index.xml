@@ -5,12 +5,30 @@
     <link>https://victorzxy.github.io/tag/pytorch/</link>
       <atom:link href="https://victorzxy.github.io/tag/pytorch/index.xml" rel="self" type="application/rss+xml" />
     <description>PyTorch</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://victorzxy.github.io/media/icon_hu51ffffd5f6381cda320d0c97647d90a4_34098_512x512_fill_lanczos_center_3.png</url>
       <title>PyTorch</title>
       <link>https://victorzxy.github.io/tag/pytorch/</link>
     </image>
+    
+    <item>
+      <title>Multi-Agent Deep Q-Learning for the Berry Poisoning Game</title>
+      <link>https://victorzxy.github.io/post/dqn-berry-poisoning/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/post/dqn-berry-poisoning/</guid>
+      <description>&lt;p&gt;Deep Q-learning (DQN) is a successful algorithm that combines deep learning with reinforcement learning. However, it is of great research interest whether this method can work in a multi-agent environment. In this mini-project, I performed a multi-agent DQN method on the Berry Poisoning Games, and investigated on the agent performance with respect to different game environment parameters, including the bad berry rate, bad/good berry reward ratio, number of agents, and agent visibility range. The results clearly show that my DQN method can successfully train agents to act sensibly in such an environment, within only a few episodes of training. My DQN method also succeeds in transfer learning, training agents that still perform well in other game environment setups, and can be further enhanced through fine-tuning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Agent Deep Q-Learning for the Berry Poisoning Game</title>
+      <link>https://victorzxy.github.io/project/dqn-berry-poisoning/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/project/dqn-berry-poisoning/</guid>
+      <description>&lt;p&gt;Deep Q-learning (DQN) is a successful algorithm that combines deep learning with reinforcement learning. However, it is of great research interest whether this method can work in a multi-agent environment. In this mini-project, I performed a multi-agent DQN method on the Berry Poisoning Games, and investigated on the agent performance with respect to different game environment parameters, including the bad berry rate, bad/good berry reward ratio, number of agents, and agent visibility range. The results clearly show that my DQN method can successfully train agents to act sensibly in such an environment, within only a few episodes of training. My DQN method also succeeds in transfer learning, training agents that still perform well in other game environment setups, and can be further enhanced through fine-tuning.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Function Autoencoders: A Neural Network Approach to Gaussian Processes</title>
