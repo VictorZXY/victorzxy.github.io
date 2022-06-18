@@ -5,12 +5,20 @@
     <link>https://victorzxy.github.io/tag/graph-neural-networks/</link>
       <atom:link href="https://victorzxy.github.io/tag/graph-neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Graph Neural Networks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Wed, 08 Jun 2022 09:10:00 +0000</lastBuildDate>
     <image>
       <url>https://victorzxy.github.io/media/icon_hu51ffffd5f6381cda320d0c97647d90a4_34098_512x512_fill_lanczos_center_3.png</url>
       <title>Graph Neural Networks</title>
       <link>https://victorzxy.github.io/tag/graph-neural-networks/</link>
     </image>
+    
+    <item>
+      <title>Task-Agnostic Graph Neural Network Evaluation via Adversarial Collaboration</title>
+      <link>https://victorzxy.github.io/talk/task-agnostic-graph-neural-network-evaluation-via-adversarial-collaboration/</link>
+      <pubDate>Wed, 08 Jun 2022 09:10:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/talk/task-agnostic-graph-neural-network-evaluation-via-adversarial-collaboration/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Task-Agnostic Graph Neural Network Evaluation via Adversarial Collaboration</title>
