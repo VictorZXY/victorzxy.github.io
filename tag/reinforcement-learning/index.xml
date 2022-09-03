@@ -5,12 +5,20 @@
     <link>https://victorzxy.github.io/tag/reinforcement-learning/</link>
       <atom:link href="https://victorzxy.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Reinforcement Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Wed, 24 Aug 2022 18:50:00 +0000</lastBuildDate>
     <image>
       <url>https://victorzxy.github.io/media/icon_hu51ffffd5f6381cda320d0c97647d90a4_34098_512x512_fill_lanczos_center_3.png</url>
       <title>Reinforcement Learning</title>
       <link>https://victorzxy.github.io/tag/reinforcement-learning/</link>
     </image>
+    
+    <item>
+      <title>Towards a Competitive 3-Player Mahjong AI using Deep Reinforcement Learning</title>
+      <link>https://victorzxy.github.io/talk/towards-a-competitive-3-player-mahjong-ai-using-deep-reinforcement-learning/</link>
+      <pubDate>Wed, 24 Aug 2022 18:50:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/talk/towards-a-competitive-3-player-mahjong-ai-using-deep-reinforcement-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards a Competitive 3-Player Mahjong AI using Deep Reinforcement Learning</title>
