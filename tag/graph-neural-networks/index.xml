@@ -5,12 +5,35 @@
     <link>https://victorzxy.github.io/tag/graph-neural-networks/</link>
       <atom:link href="https://victorzxy.github.io/tag/graph-neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Graph Neural Networks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Wed, 08 Jun 2022 09:10:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://victorzxy.github.io/media/icon_hu445124fc86f9a5e0ef5204885c05fa2c_2309_512x512_fill_lanczos_center_3.png</url>
       <title>Graph Neural Networks</title>
       <link>https://victorzxy.github.io/tag/graph-neural-networks/</link>
     </image>
+    
+    <item>
+      <title>Task-Agnostic Graph Neural Network Evaluation via Adversarial Collaboration</title>
+      <link>https://victorzxy.github.io/publication/2023-graphac/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/publication/2023-graphac/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>Task-Agnostic Graph Neural Network Evaluation via Adversarial Collaboration</title>
@@ -29,6 +52,7 @@
 &lt;p&gt;Furthermore, learning informative representations of graph-structured data using self-supervised learning (SSL) is becoming crucial in many real-world tasks nowadays, when labelled data are expensive and limited. Most of the existing graph SSL works incorporate handcrafted augmentations to the graph, which has several severe difficulties due to the unique characteristics of graph-structured data. Therefore, it is highly needed to develop a principled SSL framework across various types of graphs, that does not require handcrafted augmentations.&lt;/p&gt;
 &lt;p&gt;In this project, I tackled both questions above, and developed GraphAC (Graph Adversarial Collaboration), a conceptually novel, principled, task-agnostic, and stable framework for evaluating GNNs through contrastive self-supervision. It consists of two different GNNs directly competing against each other, with the more expressive GNN wins by producing more informative graph representations. I built two frameworks for GraphAC, and designed a novel objective function that enables stable and effective training of two different GNNs, inspired by Barlow Twins.&lt;/p&gt;
 &lt;p&gt;The experimental results show that GraphAC succeeds in distinguishing GNNs of different expressivity across various aspects including the number of layers, hidden dimensionality, aggregators, GNN architecture and edge features, and always allow more expressive GNNs to win with statistically significant difference. GraphAC proved to be a principled and reliable GNN evaluation method, and enables stable SSL without needing handcrafted augmentations.&lt;/p&gt;
+&lt;p&gt;A &lt;a href=&#34;https://victorzxy.github.io/publication/2023-graphac&#34;&gt;paper&lt;/a&gt; from this dissertation is currently under review at the 40th International Conference on Machine Learning (ICML 2023).&lt;/p&gt;
 </description>
     </item>
     
@@ -41,6 +65,7 @@
 &lt;p&gt;Furthermore, learning informative representations of graph-structured data using self-supervised learning (SSL) is becoming crucial in many real-world tasks nowadays, when labelled data are expensive and limited. Most of the existing graph SSL works incorporate handcrafted augmentations to the graph, which has several severe difficulties due to the unique characteristics of graph-structured data. Therefore, it is highly needed to develop a principled SSL framework across various types of graphs, that does not require handcrafted augmentations.&lt;/p&gt;
 &lt;p&gt;In this project, I tackled both questions above, and developed GraphAC (Graph Adversarial Collaboration), a conceptually novel, principled, task-agnostic, and stable framework for evaluating GNNs through contrastive self-supervision. It consists of two different GNNs directly competing against each other, with the more expressive GNN wins by producing more informative graph representations. I built two frameworks for GraphAC, and designed a novel objective function that enables stable and effective training of two different GNNs, inspired by Barlow Twins.&lt;/p&gt;
 &lt;p&gt;The experimental results show that GraphAC succeeds in distinguishing GNNs of different expressivity across various aspects including the number of layers, hidden dimensionality, aggregators, GNN architecture and edge features, and always allow more expressive GNNs to win with statistically significant difference. GraphAC proved to be a principled and reliable GNN evaluation method, and enables stable SSL without needing handcrafted augmentations.&lt;/p&gt;
+&lt;p&gt;A &lt;a href=&#34;https://victorzxy.github.io/publication/2023-graphac&#34;&gt;paper&lt;/a&gt; from this dissertation is currently under review at the 40th International Conference on Machine Learning (ICML 2023).&lt;/p&gt;
 </description>
     </item>
     
