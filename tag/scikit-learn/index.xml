@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scikit-learn | Xiangyu Zhao</title>
+    <link>https://victorzxy.github.io/tag/scikit-learn/</link>
+      <atom:link href="https://victorzxy.github.io/tag/scikit-learn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scikit-learn</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://victorzxy.github.io/media/icon_hu445124fc86f9a5e0ef5204885c05fa2c_2309_512x512_fill_lanczos_center_3.png</url>
+      <title>Scikit-learn</title>
+      <link>https://victorzxy.github.io/tag/scikit-learn/</link>
+    </image>
+    
+    <item>
+      <title>Analysing Clickstream Data for Online Shopping</title>
+      <link>https://victorzxy.github.io/post/datasci-pnp-final-practical/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/post/datasci-pnp-final-practical/</guid>
+      <description>&lt;p&gt;In this project, I analysed a clickstream dataset of an online shopping website for clothing between April and August 2008, and built a machine learning pipeline to predict the costumer’s potential willingness to pay a premium price. I explored, trained and compared various machine learning models for this task, ranging from traditional models to deep neural networks, and identified the most important features for predicting the target value. The best-performing model the I trained for this project has achieved a test accuracy of 93.37%. I also performed visualisation and dimensionality reduction, using PCA and t-SNE, to reveal properties of the dataset and my models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysing Clickstream Data for Online Shopping</title>
+      <link>https://victorzxy.github.io/project/datasci-pnp-final-practical/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/project/datasci-pnp-final-practical/</guid>
+      <description>&lt;p&gt;In this project, I analysed a clickstream dataset of an online shopping website for clothing between April and August 2008, and built a machine learning pipeline to predict the costumer’s potential willingness to pay a premium price. I explored, trained and compared various machine learning models for this task, ranging from traditional models to deep neural networks, and identified the most important features for predicting the target value. The best-performing model the I trained for this project has achieved a test accuracy of 93.37%. I also performed visualisation and dimensionality reduction, using PCA and t-SNE, to reveal properties of the dataset and my models.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
