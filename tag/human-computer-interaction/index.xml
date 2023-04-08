@@ -14,9 +14,9 @@
     
     <item>
       <title>iSport</title>
-      <link>https://victorzxy.github.io/post/isport/</link>
+      <link>https://victorzxy.github.io/archive/isport/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://victorzxy.github.io/post/isport/</guid>
+      <guid>https://victorzxy.github.io/archive/isport/</guid>
       <description>&lt;p&gt;This is an Android application, written in Java, for the athletes in Cambridge. It gives a daily weather forecast information on the most relevant weather, based on the user&amp;rsquo;s selection of sports. I was responsible for layout design and interaction functionalities, and built an aesthetic, easy-to-use and efficient user interface.&lt;/p&gt;
 </description>
     </item>

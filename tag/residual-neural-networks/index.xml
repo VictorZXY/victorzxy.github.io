@@ -14,9 +14,9 @@
     
     <item>
       <title>Investigating Adversarial Examples for Deep Residual Networks</title>
-      <link>https://victorzxy.github.io/post/fgsm-attack-resnets/</link>
+      <link>https://victorzxy.github.io/archive/fgsm-attack-resnets/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://victorzxy.github.io/post/fgsm-attack-resnets/</guid>
+      <guid>https://victorzxy.github.io/archive/fgsm-attack-resnets/</guid>
       <description>&lt;p&gt;In this project, I investigated the one-shot and iterative fast gradient sign method (FGSM) attack, both untargeted and targeted, to generate adversarial examples for ResNet-50, and experimented the transferability of each FGSM to other neural networks, namely ResNet-18 and VGG-19, as well as other image inputs. The following conclusions can be reached after the above experiments:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Targeted FGSM is more effective than FGSM;&lt;/li&gt;

@@ -291,9 +291,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Investigating Adversarial Examples for Deep Residual Networks</title>
-      <link>https://victorzxy.github.io/post/fgsm-attack-resnets/</link>
+      <link>https://victorzxy.github.io/archive/fgsm-attack-resnets/</link>
       <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://victorzxy.github.io/post/fgsm-attack-resnets/</guid>
+      <guid>https://victorzxy.github.io/archive/fgsm-attack-resnets/</guid>
       <description>&lt;p&gt;In this project, I investigated the one-shot and iterative fast gradient sign method (FGSM) attack, both untargeted and targeted, to generate adversarial examples for ResNet-50, and experimented the transferability of each FGSM to other neural networks, namely ResNet-18 and VGG-19, as well as other image inputs. The following conclusions can be reached after the above experiments:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Targeted FGSM is more effective than FGSM;&lt;/li&gt;
@@ -321,9 +321,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Analysing Clickstream Data for Online Shopping</title>
-      <link>https://victorzxy.github.io/post/datasci-pnp-final-practical/</link>
+      <link>https://victorzxy.github.io/archive/datasci-pnp-final-practical/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://victorzxy.github.io/post/datasci-pnp-final-practical/</guid>
+      <guid>https://victorzxy.github.io/archive/datasci-pnp-final-practical/</guid>
       <description>&lt;p&gt;In this project, I analysed a clickstream dataset of an online shopping website for clothing between April and August 2008, and built a machine learning pipeline to predict the costumer’s potential willingness to pay a premium price. I explored, trained and compared various machine learning models for this task, ranging from traditional models to deep neural networks, and identified the most important features for predicting the target value. The best-performing model the I trained for this project has achieved a test accuracy of 93.37%. I also performed visualisation and dimensionality reduction, using PCA and t-SNE, to reveal properties of the dataset and my models.&lt;/p&gt;
 </description>
     </item>
@@ -347,9 +347,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Trading Assistant</title>
-      <link>https://victorzxy.github.io/post/trading-assistant/</link>
+      <link>https://victorzxy.github.io/archive/trading-assistant/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://victorzxy.github.io/post/trading-assistant/</guid>
+      <guid>https://victorzxy.github.io/archive/trading-assistant/</guid>
       <description>&lt;p&gt;This is an web service written in Python and JavaScript, developed for &lt;a href=&#34;https://www.imc.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IMC Trading&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Not all trading happens on the exchanges—sometimes counterparties trade directly through human-to-human communication. In such cases, humans typically use their most natural interface: voice. The Trading Assistant holds market data and responds to queries on demand in a human-like manner, by automating the trader side of the trading communication using modern technologies, including speech recognition, natural language processing, and speech synthesis. The speech recognition and speech synthesis module of the Trading Assistant was built based on the Google Cloud Speech-to-Text and Text-to-Speech APIs. The Trading Assistant also adopts a Naïve Bayes approach for NLP, using word2vec for word embeddings and Siamese BERT for sentence embeddings.&lt;/p&gt;
 &lt;p&gt;I was responsible for building the speech recognition and speech synthesis modules, and efficiently built the libraries with high accuracies, and provided clean interfaces that were used conveniently by my NLP and back-end teammates, improving the system&amp;rsquo;s overall performance.&lt;/p&gt;

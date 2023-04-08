@@ -120,9 +120,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Analysing Clickstream Data for Online Shopping</title>
-      <link>https://victorzxy.github.io/post/datasci-pnp-final-practical/</link>
+      <link>https://victorzxy.github.io/archive/datasci-pnp-final-practical/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://victorzxy.github.io/post/datasci-pnp-final-practical/</guid>
+      <guid>https://victorzxy.github.io/archive/datasci-pnp-final-practical/</guid>
       <description>&lt;p&gt;In this project, I analysed a clickstream dataset of an online shopping website for clothing between April and August 2008, and built a machine learning pipeline to predict the costumer’s potential willingness to pay a premium price. I explored, trained and compared various machine learning models for this task, ranging from traditional models to deep neural networks, and identified the most important features for predicting the target value. The best-performing model the I trained for this project has achieved a test accuracy of 93.37%. I also performed visualisation and dimensionality reduction, using PCA and t-SNE, to reveal properties of the dataset and my models.&lt;/p&gt;
 </description>
     </item>

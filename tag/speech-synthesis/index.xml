@@ -22,9 +22,9 @@
     
     <item>
       <title>Trading Assistant</title>
-      <link>https://victorzxy.github.io/post/trading-assistant/</link>
+      <link>https://victorzxy.github.io/archive/trading-assistant/</link>
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://victorzxy.github.io/post/trading-assistant/</guid>
+      <guid>https://victorzxy.github.io/archive/trading-assistant/</guid>
       <description>&lt;p&gt;This is an web service written in Python and JavaScript, developed for &lt;a href=&#34;https://www.imc.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IMC Trading&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Not all trading happens on the exchanges—sometimes counterparties trade directly through human-to-human communication. In such cases, humans typically use their most natural interface: voice. The Trading Assistant holds market data and responds to queries on demand in a human-like manner, by automating the trader side of the trading communication using modern technologies, including speech recognition, natural language processing, and speech synthesis. The speech recognition and speech synthesis module of the Trading Assistant was built based on the Google Cloud Speech-to-Text and Text-to-Speech APIs. The Trading Assistant also adopts a Naïve Bayes approach for NLP, using word2vec for word embeddings and Siamese BERT for sentence embeddings.&lt;/p&gt;
 &lt;p&gt;I was responsible for building the speech recognition and speech synthesis modules, and efficiently built the libraries with high accuracies, and provided clean interfaces that were used conveniently by my NLP and back-end teammates, improving the system&amp;rsquo;s overall performance.&lt;/p&gt;
