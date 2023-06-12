@@ -4,47 +4,67 @@
   
   
   <url>
-    <loc></loc><lastmod>2023-05-18T00:00:01+00:00</lastmod></url>
+    <loc></loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://victorzxy.github.io/publication-type/3/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://victorzxy.github.io/project/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://victorzxy.github.io/tag/datasets-and-benchmarks/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://victorzxy.github.io/tag/deep-learning/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://victorzxy.github.io/tag/graph-neural-networks/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://victorzxy.github.io/post/hybrid-graph-benchmark/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://victorzxy.github.io/project/hybrid-graph-benchmark/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://victorzxy.github.io/publication/2023-hybrid-graph-benchmark/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://victorzxy.github.io/tag/machine-learning/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://victorzxy.github.io/post/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://victorzxy.github.io/publication_types/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://victorzxy.github.io/publication/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://victorzxy.github.io/tag/pytorch/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://victorzxy.github.io/tag/pytorch-geometric/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://victorzxy.github.io/tags/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://victorzxy.github.io/</loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2023-06-08T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/note/cst1a-introprob/</loc><lastmod>2023-05-18T00:00:01+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/note/</loc><lastmod>2023-05-18T00:00:01+00:00</lastmod></url>
   <url>
-    <loc>https://victorzxy.github.io/</loc><lastmod>2023-05-18T00:00:01+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2023-05-18T00:00:01+00:00</lastmod></url>
-  <url>
     <loc>https://victorzxy.github.io/publication-type/1/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://victorzxy.github.io/tag/deep-learning/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/tag/dgl/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2023-01-27T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://victorzxy.github.io/tag/graph-neural-networks/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod></url>
-  <url>
     <loc></loc><lastmod>2023-01-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://victorzxy.github.io/tag/machine-learning/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2023-01-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://victorzxy.github.io/publication_types/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://victorzxy.github.io/publication/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://victorzxy.github.io/tag/pytorch/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://victorzxy.github.io/tag/pytorch-geometric/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/tag/self-supervised-learning/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://victorzxy.github.io/tags/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://victorzxy.github.io/publication/2023-graphac/</loc><lastmod>2023-01-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2023-01-27T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/tag/convolutional-neural-networks/</loc><lastmod>2022-08-24T18:50:00+00:00</lastmod></url>
   <url>
@@ -60,15 +80,13 @@
   <url>
     <loc>https://victorzxy.github.io/talk/task-agnostic-graph-neural-network-evaluation-via-adversarial-collaboration/</loc><lastmod>2022-06-08T09:10:00+00:00</lastmod></url>
   <url>
-    <loc>https://victorzxy.github.io/project/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://victorzxy.github.io/post/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://victorzxy.github.io/post/graphac/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/project/graphac/</loc><lastmod>2022-05-27T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/publication/2022-meowjong-auxiliary/</loc><lastmod>2022-05-13T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://victorzxy.github.io/archive/</loc><lastmod>2022-04-26T00:00:00+00:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2022-04-26T00:00:00+00:00</lastmod></url>
   <url>
@@ -76,19 +94,17 @@
   <url>
     <loc>https://victorzxy.github.io/tag/deep-generative-models/</loc><lastmod>2022-04-26T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://victorzxy.github.io/post/expressive-graph-gen/</loc><lastmod>2022-04-26T00:00:00+00:00</lastmod></url>
+    <loc>https://victorzxy.github.io/archive/expressive-graph-gen/</loc><lastmod>2022-04-26T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/project/expressive-graph-gen/</loc><lastmod>2022-04-26T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/tag/deep-q-learning/</loc><lastmod>2022-04-04T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://victorzxy.github.io/post/dqn-berry-poisoning/</loc><lastmod>2022-04-04T00:00:00+00:00</lastmod></url>
+    <loc>https://victorzxy.github.io/archive/dqn-berry-poisoning/</loc><lastmod>2022-04-04T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/project/dqn-berry-poisoning/</loc><lastmod>2022-04-04T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/note/acs-graph-representation-learning/</loc><lastmod>2022-03-08T00:00:03+00:00</lastmod></url>
-  <url>
-    <loc>https://victorzxy.github.io/publication-type/3/</loc><lastmod>2022-02-25T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/publication/2022-meowjong/</loc><lastmod>2022-02-25T00:00:00+00:00</lastmod></url>
   <url>
@@ -114,17 +130,17 @@
   <url>
     <loc></loc><lastmod>2022-02-07T14:30:00+00:00</lastmod></url>
   <url>
-    <loc>https://victorzxy.github.io/post/function-autoencoders/</loc><lastmod>2022-01-19T00:00:00+00:00</lastmod></url>
+    <loc>https://victorzxy.github.io/archive/function-autoencoders/</loc><lastmod>2022-01-19T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/project/function-autoencoders/</loc><lastmod>2022-01-19T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/tag/variational-autoencoders/</loc><lastmod>2022-01-19T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://victorzxy.github.io/post/traffic-sim/</loc><lastmod>2022-01-18T00:00:00+00:00</lastmod></url>
+    <loc>https://victorzxy.github.io/archive/traffic-sim/</loc><lastmod>2022-01-18T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/project/traffic-sim/</loc><lastmod>2022-01-18T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://victorzxy.github.io/post/nlp-final-assignment-ner/</loc><lastmod>2021-12-03T00:00:00+00:00</lastmod></url>
+    <loc>https://victorzxy.github.io/archive/nlp-final-assignment-ner/</loc><lastmod>2021-12-03T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/project/nlp-final-assignment-ner/</loc><lastmod>2021-12-03T00:00:00+00:00</lastmod></url>
   <url>
@@ -139,8 +155,6 @@
     <loc>https://victorzxy.github.io/project/meowjong/</loc><lastmod>2021-05-14T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/tag/adversarial-examples/</loc><lastmod>2021-03-19T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://victorzxy.github.io/archive/</loc><lastmod>2021-03-19T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://victorzxy.github.io/archive/fgsm-attack-resnets/</loc><lastmod>2021-03-19T00:00:00+00:00</lastmod></url>
   <url>

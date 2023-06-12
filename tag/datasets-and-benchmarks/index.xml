@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datasets and Benchmarks | Xiangyu Zhao</title>
+    <link>https://victorzxy.github.io/tag/datasets-and-benchmarks/</link>
+      <atom:link href="https://victorzxy.github.io/tag/datasets-and-benchmarks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Datasets and Benchmarks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Thu, 08 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://victorzxy.github.io/media/icon_hu445124fc86f9a5e0ef5204885c05fa2c_2309_512x512_fill_lanczos_center_3.png</url>
+      <title>Datasets and Benchmarks</title>
+      <link>https://victorzxy.github.io/tag/datasets-and-benchmarks/</link>
+    </image>
+    
+    <item>
+      <title>Hybrid Graph: A Unified Graph Representation with Datasets and Benchmarks for Complex Graphs</title>
+      <link>https://victorzxy.github.io/post/hybrid-graph-benchmark/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/post/hybrid-graph-benchmark/</guid>
+      <description>&lt;p&gt;Graphs are widely used to encapsulate a variety of data formats, but real-world networks often involve complex node relations beyond only being pairwise. While hypergraphs and hierarchical graphs have been developed and employed to account for the complex node relations, they cannot fully represent these complexities in practice. Additionally, though many Graph Neural Networks (GNNs) have been proposed for representation learning on higher-order graphs, they are usually only evaluated on simple graph datasets. Therefore, there is a need for a unified modelling of higher-order graphs, and a collection of comprehensive datasets with an accessible evaluation framework to fully understand the performance of these algorithms on complex graphs. In this paper, we introduce the concept of hybrid graphs, a unified definition for higher-order graphs, and present the Hybrid Graph Benchmark (HGB). HGB contains 23 real-world hybrid graph datasets across various domains such as biology, social media, and e-commerce. Furthermore, we provide an extensible evaluation framework and a supporting codebase to facilitate the training and evaluation of GNNs on HGB. Our empirical study of existing GNNs on HGB reveals various research opportunities and gaps, including (1) evaluating the actual performance improvement of hypergraph GNNs over simple graph GNNs; (2) comparing the impact of different sampling strategies on hybrid graph learning methods; and (3) exploring ways to integrate simple graph and hypergraph information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hybrid Graph: A Unified Graph Representation with Datasets and Benchmarks for Complex Graphs</title>
+      <link>https://victorzxy.github.io/project/hybrid-graph-benchmark/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/project/hybrid-graph-benchmark/</guid>
+      <description>&lt;p&gt;Graphs are widely used to encapsulate a variety of data formats, but real-world networks often involve complex node relations beyond only being pairwise. While hypergraphs and hierarchical graphs have been developed and employed to account for the complex node relations, they cannot fully represent these complexities in practice. Additionally, though many Graph Neural Networks (GNNs) have been proposed for representation learning on higher-order graphs, they are usually only evaluated on simple graph datasets. Therefore, there is a need for a unified modelling of higher-order graphs, and a collection of comprehensive datasets with an accessible evaluation framework to fully understand the performance of these algorithms on complex graphs. In this paper, we introduce the concept of hybrid graphs, a unified definition for higher-order graphs, and present the Hybrid Graph Benchmark (HGB). HGB contains 23 real-world hybrid graph datasets across various domains such as biology, social media, and e-commerce. Furthermore, we provide an extensible evaluation framework and a supporting codebase to facilitate the training and evaluation of GNNs on HGB. Our empirical study of existing GNNs on HGB reveals various research opportunities and gaps, including (1) evaluating the actual performance improvement of hypergraph GNNs over simple graph GNNs; (2) comparing the impact of different sampling strategies on hybrid graph learning methods; and (3) exploring ways to integrate simple graph and hypergraph information.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hybrid Graph: A Unified Graph Representation with Datasets and Benchmarks for Complex Graphs</title>
+      <link>https://victorzxy.github.io/publication/2023-hybrid-graph-benchmark/</link>
+      <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/publication/2023-hybrid-graph-benchmark/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

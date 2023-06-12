@@ -14,9 +14,9 @@
     
     <item>
       <title>A Neural Network Approach to Named Entity Recognition on Noisy User-Generated Texts</title>
-      <link>https://victorzxy.github.io/post/nlp-final-assignment-ner/</link>
+      <link>https://victorzxy.github.io/archive/nlp-final-assignment-ner/</link>
       <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://victorzxy.github.io/post/nlp-final-assignment-ner/</guid>
+      <guid>https://victorzxy.github.io/archive/nlp-final-assignment-ner/</guid>
       <description>&lt;p&gt;Named entity recognition (NER) is an important information extraction task in natural language processing (NLP) which involves automatic identification of entities of interest, such as people&amp;rsquo;s names, organisations and locations. Current state-of-the-art NER systems can achieve F1-scores of up to 94.6% on English news texts (&lt;a href=&#34;https://aclanthology.org/2021.acl-long.206.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wang &lt;em&gt;et al.&lt;/em&gt;, 2021a&lt;/a&gt;), where the named entities are fairly standard, well-formed and highly predictable. However, the diverse and noisy nature of user-generated texts as well as the novel, emerging and rare named entities make NER in social media much more challenging, and standard NER sysmtes were not found to work very well on these tasks. As a comparison, current state-of-the-art NER systems on user-generated texts can only achieve F1-scores of up to 60.45% (&lt;a href=&#34;https://aclanthology.org/2021.acl-long.142.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wang &lt;em&gt;et al.&lt;/em&gt;, 2021b&lt;/a&gt;). In this project, I investigated a bidirectional long short-term memory (BiLSTM) structure for NER on social media texts, explored various data-processing techniques in order to improve the model&amp;rsquo;s performance, namely:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Downweighting non-named entity labels&lt;/li&gt;

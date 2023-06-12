@@ -22,9 +22,9 @@
     
     <item>
       <title>Building a Simulator and Emulator for Traffic Signalling</title>
-      <link>https://victorzxy.github.io/post/traffic-sim/</link>
+      <link>https://victorzxy.github.io/archive/traffic-sim/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://victorzxy.github.io/post/traffic-sim/</guid>
+      <guid>https://victorzxy.github.io/archive/traffic-sim/</guid>
       <description>&lt;p&gt;In this project, we carried out simulation and emulation of an urban traffic signalling system. We first built a simulator that can randomly generate networks and car routes to test how different signal scheduling choices affect the total distance travelled by cars in a given period. Based on this, we built an emulator to search for optimal scheduling using Bayesian optimisation. To overcome the problem of exploding search space without sacrificing flexibility or descriptiveness, we introduced four different scheduling schemes:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Distinct scheduling&lt;/li&gt;
