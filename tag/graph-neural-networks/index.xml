@@ -5,12 +5,53 @@
     <link>https://victorzxy.github.io/tag/graph-neural-networks/</link>
       <atom:link href="https://victorzxy.github.io/tag/graph-neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Graph Neural Networks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://victorzxy.github.io/media/icon_hu445124fc86f9a5e0ef5204885c05fa2c_2309_512x512_fill_lanczos_center_3.png</url>
       <title>Graph Neural Networks</title>
       <link>https://victorzxy.github.io/tag/graph-neural-networks/</link>
     </image>
+    
+    <item>
+      <title>Enhancing Node Representations for Real-World Complex Networks with Topological Augmentation</title>
+      <link>https://victorzxy.github.io/publication/2024-topological-augmentation/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/publication/2024-topological-augmentation/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhancing Real-World Complex Network Representations with Topological Augmentation</title>
+      <link>https://victorzxy.github.io/post/topological-augmentation/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/post/topological-augmentation/</guid>
+      <description>&lt;p&gt;Graph augmentation methods play a crucial role in improving the performance and enhancing generalisation capabilities in Graph Neural Networks (GNNs). Existing graph augmentation methods mainly perturb the graph structures, and are usually limited to pairwise node relations. These methods cannot fully address the complexities of real-world large-scale networks, which often involve higher-order node relations beyond only being pairwise. Meanwhile, real-world graph datasets are predominantly modelled as simple graphs, due to the scarcity of data that can be used to form higher-order edges. Therefore, reconfiguring the higher-order edges as an integration into graph augmentation strategies lights up a promising research path to address the aforementioned issues. In this paper, we present Topological Augmentation (TopoAug), a novel graph augmentation method that builds a combinatorial complex from the original graph by constructing virtual hyperedges directly form the raw data. TopoAug then produces auxiliary node features by extracting information from the combinatorial complex, which are used for enhancing GNN performances on downstream tasks. We design three diverse virtual hyperedge construction strategies to accompany the construction of combinatorial complexes: (1) via graph statistics, (2) from multiple data perspectives, and (3) utilising multi-modality. Furthermore, to facilitate TopoAug evaluation, we provide 23 novel real-world graph datasets across various domains including social media, biology, and e-commerce. Our empirical study shows that TopoAug consistently and significantly outperforms GNN baselines and other graph augmentation methods, across a variety of application contexts, which clearly indicates that it can effectively incorporate higher-order node relations into graph augmentation methods for real-world complex networks. Specifically, on the Amazon datasets, our method surpasses the GCN baseline by 37.0% on average, outperforms GAT by 30.8% on average, and exceeds GraphSAGE by 33.8% on average.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhancing Real-World Complex Network Representations with Topological Augmentation</title>
+      <link>https://victorzxy.github.io/project/topological-augmentation/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/project/topological-augmentation/</guid>
+      <description>&lt;p&gt;Graph augmentation methods play a crucial role in improving the performance and enhancing generalisation capabilities in Graph Neural Networks (GNNs). Existing graph augmentation methods mainly perturb the graph structures, and are usually limited to pairwise node relations. These methods cannot fully address the complexities of real-world large-scale networks, which often involve higher-order node relations beyond only being pairwise. Meanwhile, real-world graph datasets are predominantly modelled as simple graphs, due to the scarcity of data that can be used to form higher-order edges. Therefore, reconfiguring the higher-order edges as an integration into graph augmentation strategies lights up a promising research path to address the aforementioned issues. In this paper, we present Topological Augmentation (TopoAug), a novel graph augmentation method that builds a combinatorial complex from the original graph by constructing virtual hyperedges directly form the raw data. TopoAug then produces auxiliary node features by extracting information from the combinatorial complex, which are used for enhancing GNN performances on downstream tasks. We design three diverse virtual hyperedge construction strategies to accompany the construction of combinatorial complexes: (1) via graph statistics, (2) from multiple data perspectives, and (3) utilising multi-modality. Furthermore, to facilitate TopoAug evaluation, we provide 23 novel real-world graph datasets across various domains including social media, biology, and e-commerce. Our empirical study shows that TopoAug consistently and significantly outperforms GNN baselines and other graph augmentation methods, across a variety of application contexts, which clearly indicates that it can effectively incorporate higher-order node relations into graph augmentation methods for real-world complex networks. Specifically, on the Amazon datasets, our method surpasses the GCN baseline by 37.0% on average, outperforms GAT by 30.8% on average, and exceeds GraphSAGE by 33.8% on average.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Investigating GNN Expressiveness in Graph Generation Tasks</title>
