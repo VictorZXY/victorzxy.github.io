@@ -5,12 +5,20 @@
     <link>https://victorzxy.github.io/tag/datasets-and-benchmarks/</link>
       <atom:link href="https://victorzxy.github.io/tag/datasets-and-benchmarks/index.xml" rel="self" type="application/rss+xml" />
     <description>Datasets and Benchmarks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Wed, 23 Oct 2024 11:30:00 +0000</lastBuildDate>
     <image>
       <url>https://victorzxy.github.io/media/icon_hu445124fc86f9a5e0ef5204885c05fa2c_2309_512x512_fill_lanczos_center_3.png</url>
       <title>Datasets and Benchmarks</title>
       <link>https://victorzxy.github.io/tag/datasets-and-benchmarks/</link>
     </image>
+    
+    <item>
+      <title>Enhancing Real-World Complex Network Representations with Topological Augmentation</title>
+      <link>https://victorzxy.github.io/talk/enhancing-real-world-complex-network-representations-with-topological-augmentation/</link>
+      <pubDate>Wed, 23 Oct 2024 11:30:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/talk/enhancing-real-world-complex-network-representations-with-topological-augmentation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Enhancing Node Representations for Real-World Complex Networks with Topological Augmentation</title>

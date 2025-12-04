@@ -5,12 +5,61 @@
     <link>https://victorzxy.github.io/tag/deep-learning/</link>
       <atom:link href="https://victorzxy.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Thu, 25 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Xiangyu Zhao</copyright><lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://victorzxy.github.io/media/icon_hu445124fc86f9a5e0ef5204885c05fa2c_2309_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
       <link>https://victorzxy.github.io/tag/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>EC-Gate: Expansion Contribution-Aware Gating for Structure-Guided Message Passing in GNNs</title>
+      <link>https://victorzxy.github.io/publication/2025-ecgate/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/publication/2025-ecgate/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Expansion Contribution-Aware Gating for Structure-Guided Message Passing in GNNs</title>
+      <link>https://victorzxy.github.io/post/ecgate/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/post/ecgate/</guid>
+      <description>&lt;p&gt;The message passing framework has largely driven the success of GNNs, yet it faces potential limitations: over-squashing, over-smoothing and expressiveness constraints. A promising solution is structure-guided message passing, which leverages the graph structure to guide information flow and better capture long-range dependencies. We present EC-Gate, a lightweight plug-in that leverages Expansion Contribution (EC)—a layer-wise measure of how edges expand the receptive field—to drive group-wise gates that regulate message propagation. By concentrating capacity on structurally critical edges, EC-Gate can improve the sensitivity bound in large hidden dimensions, while limiting overfitting. EC-Gate delivers significant improvements across synthetic and molecular benchmarks. Remarkably, when implemented on a standard GCN backbone, it achieves state-of-the-art performance on PCBA and competitive results on Lipo and AqSol, showing that EC serves as a strong structural prior. Furthermore, the empirical analysis of gate activations reveals how EC-Gate modulates message passing in an anisotropic manner.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Expansion Contribution-Aware Gating for Structure-Guided Message Passing in GNNs</title>
+      <link>https://victorzxy.github.io/project/ecgate/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/project/ecgate/</guid>
+      <description>&lt;p&gt;The message passing framework has largely driven the success of GNNs, yet it faces potential limitations: over-squashing, over-smoothing and expressiveness constraints. A promising solution is structure-guided message passing, which leverages the graph structure to guide information flow and better capture long-range dependencies. We present EC-Gate, a lightweight plug-in that leverages Expansion Contribution (EC)—a layer-wise measure of how edges expand the receptive field—to drive group-wise gates that regulate message propagation. By concentrating capacity on structurally critical edges, EC-Gate can improve the sensitivity bound in large hidden dimensions, while limiting overfitting. EC-Gate delivers significant improvements across synthetic and molecular benchmarks. Remarkably, when implemented on a standard GCN backbone, it achieves state-of-the-art performance on PCBA and competitive results on Lipo and AqSol, showing that EC serves as a strong structural prior. Furthermore, the empirical analysis of gate activations reveals how EC-Gate modulates message passing in an anisotropic manner.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhancing Real-World Complex Network Representations with Topological Augmentation</title>
+      <link>https://victorzxy.github.io/talk/enhancing-real-world-complex-network-representations-with-topological-augmentation/</link>
+      <pubDate>Wed, 23 Oct 2024 11:30:00 +0000</pubDate>
+      <guid>https://victorzxy.github.io/talk/enhancing-real-world-complex-network-representations-with-topological-augmentation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Enhancing Node Representations for Real-World Complex Networks with Topological Augmentation</title>
